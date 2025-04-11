@@ -1,5 +1,7 @@
 ![Challenge Banner](/images/nnssl3d_challenge_banner.png)
 # Self-Supervised Learning for 3D Medical Imaging Challenge - SSL3D
+Copyright German Cancer Research Center (DKFZ) and contributors. Please make sure that your usage of this code is in compliance with its license.
+
 
 
 This repository serves as the official **discussion forum and issue tracker** for the [SSL3D Challenge](ssl3d-challenge.dkfz.de). Use this space to:
