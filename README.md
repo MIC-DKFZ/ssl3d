@@ -4,7 +4,7 @@ Copyright German Cancer Research Center (DKFZ) and contributors. Please make sur
 
 
 
-This repository serves as the official **discussion forum and issue tracker** for the [SSL3D Challenge](ssl3d-challenge.dkfz.de). Use this space to:
+This repository serves as the official **discussion forum and issue tracker** for the [SSL3D Challenge](https://ssl3d-challenge.dkfz.de). Use this space to:
 
 - 📌 Ask questions related to the challenge setup, dataset, or submission process
 - 🐞 Report bugs or issues with the provided code or data
@@ -16,7 +16,7 @@ We encourage participants to open GitHub **Issues** for technical questions, sug
 
 ## 📬 Stay in Touch
 
-- Challenge website:  [SSL3D Challenge](ssl3d-challenge.dkfz.de)
+- Challenge website:  [SSL3D Challenge](https://ssl3d-challenge.dkfz.de)
 - Dataset: [OpenMind on Hugging Face](https://huggingface.co/datasets/AnonRes/OpenMind)
 - Contact: constantin.ulrich@dkfz-heidelberg.de
 
